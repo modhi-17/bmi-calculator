@@ -1,0 +1,12 @@
+# Node.js
+node_modules
+.env
+dist
+build
+# Docker
+*.log
+.dockerignore
+
+# IDE
+.idea
+*.vscode/
